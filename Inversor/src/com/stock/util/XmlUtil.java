@@ -16,6 +16,7 @@ public class XmlUtil {
 	 */
 	public static void marshallObtjectToXml(String pathFile){
 
+		//prueba comit
 			  ActionDTO actionDTO = new ActionDTO();
 			  actionDTO.setEmpresa(" AAA " );
 			  actionDTO.setPrecioCompra(100.0);
